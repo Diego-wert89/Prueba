@@ -1,3 +1,3 @@
 x = 'Hola mundo'
-
-print(x)
+c=len(x)
+print('Mensaje:',x,',cantidad de caracteres:',c)
